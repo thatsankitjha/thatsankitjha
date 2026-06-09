@@ -106,7 +106,7 @@ Tech Stack:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha62061-spec&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=thatsankitjha&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
