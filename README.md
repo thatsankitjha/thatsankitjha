@@ -71,12 +71,20 @@ Passionate about building modern web applications using React, Node.js, Express.
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=thatsankitjha&theme=tokyonight" />
+
+<!-- 🔥 GitHub Stats (Total Contributions + Commits + Repos) -->
+<img src="https://github-readme-stats.vercel.app/api?username=thatsankitjha&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatsankitjha&layout=compact&theme=tokyonight" />
+
+<!-- 🔥 GitHub Streak (includes total contributions) -->
+<img src="https://streak-stats.demolab.com?user=thatsankitjha&theme=tokyonight&hide_border=true" />
+
 </p>
+
+
 
 ---
 
